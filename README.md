@@ -1,6 +1,7 @@
 # Bibliotecatest
 
-#Agrega info para crear la base de datos:
+#Desarrollo creado con la base de datos de MySQL
+#Se agrega info para crear la base de datos:
 
 CREATE DATABASE biblioteca;
 USE biblioteca;
